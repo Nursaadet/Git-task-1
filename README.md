@@ -1,3 +1,3 @@
 # Git-task-1
-##hello!
-###how are you?
+##Hello!
+###How are you?
